@@ -1,2 +1,2 @@
-This project mainly focuses on finding the customer churn from the telecom data using K-Nearest Neighbour.
+This project mainly focuses on finding the customer usage pack selection from the telecom data using K-Nearest Neighbour.
 The test set and training set accuracies are estimated for 10 iterations.
